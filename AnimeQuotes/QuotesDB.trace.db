@@ -1,0 +1,3 @@
+2023-03-23 17:37:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "QUOTE CHARACTER VARYING(255)": "'Ask of me, and I shall give thee the heathen for thine inheritance, and for thy... (435)"; SQL statement:
+insert into animeq (id, anime, character, quote) values (default, ?, ?, ?) [22001-214]
